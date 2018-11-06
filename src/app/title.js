@@ -33,10 +33,10 @@ export class Title extends Component {
       <div style={styles.title}>
         <h1 style={styles.h1}>&apos;Allo, &apos;Allo!</h1>
         <div>
-          <img style={styles.logo} src="http://fountainjs.io/assets/imgs/yeoman.png"/>
-          <img style={styles.logo} src="http://fountainjs.io/assets/imgs/fountain.png"/>
+          <img style={styles.logo} src="http://fountainjs.io/assets/imgs/yeoman.png" alt="logo"/>
+          <img style={styles.logo} src="http://fountainjs.io/assets/imgs/fountain.png" alt="logo"/>
         </div>
-        <h2 style={styles.h2}>Always a pleasure scaffolding your apps.</h2>
+        <h2 style={styles.h2}>HELLO TREY</h2>
       </div>
     );
   }
